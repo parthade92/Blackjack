@@ -1,2 +1,2 @@
 # Blackjack
-This is code for Blackjack game.
+This code is for Blackjack game.
